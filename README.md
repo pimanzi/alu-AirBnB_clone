@@ -3,10 +3,10 @@
 
 ## Table of Contents
 
-1. [Project Description](project-description)
-2.  [Installation](installation)
-3. [How it functions](how-it-functions)
-4. [Authors](authors)
+1. [Project Description](#project-description)
+2.  [Installation](#installation)
+3. [How it functions](#how-it-functions)
+4. [Authors](#authors)
 
 ## Project Description
 
