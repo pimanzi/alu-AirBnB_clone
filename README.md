@@ -141,6 +141,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Author
 
-Jacqueline Nyinawabagesera
-Imanzi Kabisa Placide
+1. Jacqueline Nyinawabagesera  
+2. Imanzi Kabisa Placide
 
