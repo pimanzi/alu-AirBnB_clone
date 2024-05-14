@@ -35,7 +35,7 @@ CRUD in full is create Read Update and Destroy
 ## Installation
 
 ```
-git clone https://github.com/alu-AirBnB_clone.git
+git clone https://github.com/pimanzi/alu-AirBnB_clone.git
 ```
 
 After cloning, there are various directories and files under AirBnB_clone. 
