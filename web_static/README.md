@@ -18,7 +18,7 @@ Welcome to the Web Static Airbnb Clone Project! This project aims to replicate t
 
 1.HTML5: For structuring the web pages.
 
-2.CSS3: For styling and layout.
+2.CSS3: For styling and layout.  
 
 3. Flexbox & Grid: For responsive design and layout management.
 
@@ -27,14 +27,14 @@ Welcome to the Web Static Airbnb Clone Project! This project aims to replicate t
 1. Clone the Repository
 
 ```
-git clone
+git clone https://github.com/pimanzi/alu-AirBnB_clone.git
 
 ```
 
 2. Navigate to the Project Directory
 
 ```
-cd ALU-AIRBNB_CLONE
+cd alu-AirBnB_CLONE
 ```
 
 3. Navigate to web_static Directory
