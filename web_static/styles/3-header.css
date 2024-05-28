@@ -1,0 +1,11 @@
+header {
+  background-image: url('../images/airBnblogo.png');
+  height: 70px;
+  width: 100%;
+  border-bottom: 1px solid #cccccc;
+  background-color: white;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+  background-clip: content-box;
+  background-position: 20px;
+}

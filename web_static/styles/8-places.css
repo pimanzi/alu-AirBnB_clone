@@ -1,0 +1,119 @@
+.places {
+  padding-top: 40px;
+}
+
+.places h1 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.articles {
+  display: grid;
+  grid-template-columns: 390px 390px;
+  column-gap: 30px;
+  row-gap: 30px;
+  padding-left: 20px;
+  margin-left: 40px;
+}
+
+article {
+  border: 1px solid #ff5a5f;
+  border-radius: 4px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+article h2 {
+  font-size: 30px;
+  display: inline-block;
+  text-align: center;
+  margin-left: 100px;
+}
+
+article:nth-child(3) {
+  margin-left: 220px;
+  width: 390px;
+}
+
+.price_by_night {
+  display: inline-block;
+  color: #ff5a5f;
+  border: 4px solid #ff5a5f;
+  border-radius: 50%;
+  min-width: 60px;
+  height: 60px;
+  font-size: 30px;
+  box-sizing: border-box;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+
+.information {
+  display: flex;
+  height: 80px;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  margin-top: 30px;
+  overflow: hidden;
+  box-sizing: border-box;
+  padding-left: 60px;
+}
+
+.max_guest,
+.number_bathrooms,
+.number_rooms {
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.max_guest span {
+  display: block;
+  background-image: url('../images/guest.png');
+  background-repeat: no-repeat;
+  width: 50%;
+  height: 50%;
+  margin-bottom: 10px;
+  align-self: center;
+}
+
+.number_rooms span {
+  display: block;
+  background-image: url('../images/icon_bed.png');
+  width: 50%;
+  height: 50%;
+  background-repeat: no-repeat;
+  margin-bottom: 10px;
+  align-self: center;
+}
+
+.number_bathrooms span {
+  display: block;
+  background-image: url('../images/icon_bath.png');
+  width: 50%;
+  height: 50%;
+  background-repeat: no-repeat;
+  margin-bottom: 10px;
+  align-self: center;
+}
+
+.user span {
+  font-weight: bold;
+}
+
+.user {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.user,
+.description {
+  margin-left: 20px;
+  margin-right: 10px;
+}
